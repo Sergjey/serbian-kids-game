@@ -1,0 +1,56 @@
+[
+  {
+    "id": "first_step",
+    "title": "Первый шаг",
+    "description": "Заверши первый уровень",
+    "icon": "🌟"
+  },
+  {
+    "id": "streak_5",
+    "title": "Огонь!",
+    "description": "5 правильных ответов подряд",
+    "icon": "🔥"
+  },
+  {
+    "id": "perfect_level",
+    "title": "Без ошибок",
+    "description": "Получи 3 звезды на уровне",
+    "icon": "⭐"
+  },
+  {
+    "id": "three_units",
+    "title": "Тройной удар",
+    "description": "Пройди 3 темы",
+    "icon": "🎯"
+  },
+  {
+    "id": "five_units",
+    "title": "Полиглот",
+    "description": "Пройди 5 тем",
+    "icon": "🏆"
+  },
+  {
+    "id": "all_units",
+    "title": "Мастер",
+    "description": "Пройди все темы",
+    "icon": "👑"
+  },
+  {
+    "id": "xp_100",
+    "title": "Сотня",
+    "description": "Набери 100 опыта",
+    "icon": "💯"
+  },
+  {
+    "id": "xp_500",
+    "title": "Суперзвезда",
+    "description": "Набери 500 опыта",
+    "icon": "✨"
+  },
+  {
+    "id": "collector",
+    "title": "Коллекционер",
+    "description": "Получи 5 наград",
+    "icon": "🎖️"
+  }
+]
