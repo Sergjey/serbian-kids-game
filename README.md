@@ -33,7 +33,7 @@ npm run preview
 3. В репозитории: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 4. После успешного workflow игра будет доступна по адресу:
 
-   `https://<ваш-username>.github.io/serbian-kids-game/`
+   **https://sergjey.github.io/serbian-kids-game/**
 
 ## Как добавить слова
 
