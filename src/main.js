@@ -1,4 +1,5 @@
 import './styles/main.css';
+import { initSpeech } from './audio.js';
 import { initRouter, subscribe, parseHash, navigate } from './router.js';
 import { renderMenu } from './screens/menu.js';
 import { renderLevelMap } from './screens/levelMap.js';
@@ -42,6 +43,7 @@ function render(route) {
   }
 }
 
+initSpeech();
 initRouter();
 parseHash();
 subscribe(render);
